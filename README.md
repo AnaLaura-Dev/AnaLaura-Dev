@@ -2,7 +2,10 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ana Laura Santos da Costa, tenho 17 anos e sou natural de Manaus. Concluí o ensino médio no Instituto Federal de Ciência e Tecnologia do Amazonas, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimentos de Sistemas, eu amo tecnologia e procuro sempre evoluir na área.
+💻 Desenvolvedora em formação | Técnica em Informática (IFAM)
+🚀 Java • Web Development • Projetos práticos
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+🎯 Em busca de oportunidades na área de tecnologia
 ---
 
 ### 🤖 Linguagens e Tecnologias
