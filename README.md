@@ -54,6 +54,6 @@ align="left"
 alt="Java"
 title="Java"
 width="50px"
-style="padding-rigth:5px;"
+style="padding-rigth:4px;"
 src="https://s3.us-west-2.amazonaws.com/content.podia.com/iiu3hb9rvquyj4iazcz8rhivdddr"
 />
