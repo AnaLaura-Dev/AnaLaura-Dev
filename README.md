@@ -55,5 +55,5 @@ alt="Java"
 title="Java"
 width="30px"
 style="padding-rigth:10px;"
-src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRYxOOe8ovKC6K7HZfISGRQE61zRrfx3s3Q&s"
 />
