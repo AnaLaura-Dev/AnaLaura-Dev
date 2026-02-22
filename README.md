@@ -55,5 +55,5 @@ alt="Java"
 title="Java"
 width="30px"
 style="padding-rigth:10px;"
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRYxOOe8ovKC6K7HZfISGRQE61zRrfx3s3Q&s"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s"
 />
