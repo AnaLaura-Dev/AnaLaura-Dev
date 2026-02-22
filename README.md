@@ -55,5 +55,5 @@ alt="Java"
 title="Java"
 width="30px"
 style="padding-rigth:10px;"
-src="https://tripletech.com.br/imagens/informacoes/dba-sql-server/dba-sql-server-06.jpg"
+src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"
 />
