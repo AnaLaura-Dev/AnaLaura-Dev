@@ -55,5 +55,5 @@ alt="Java"
 title="Java"
 width="30px"
 style="padding-rigth:10px;"
-src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg"
+src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png"
 />
