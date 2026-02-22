@@ -1,8 +1,8 @@
-# 👩🏽‍💻 Ana Laura
+# 👩🏽‍💻 Ana Laura Santos da Costa
 
 **`Desenvolvedora FullStack`**
 
-💻 Desenvolvedora em formação | Técnica em Informática (IFAM)
+💻 Desenvolvedora em formação | Técnica em Informática (IFAM) **
 🚀 Java • Web Development • Projetos práticos
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 🎯 Em busca de oportunidades na área de tecnologia
