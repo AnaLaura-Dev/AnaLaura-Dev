@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-💻 Desenvolvedora em formação | Técnica em Informática (IFAM) ** (\**)
+💻 Desenvolvedora em formação | Técnica em Informática (IFAM)  <br/>
 🚀 Java • Web Development • Projetos práticos
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 🎯 Em busca de oportunidades na área de tecnologia
