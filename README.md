@@ -37,7 +37,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -45,7 +45,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
 align="left"
 alt="Java"
 title="Java"
-width="40px"
+width="35px"
 style="padding-rigth:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
