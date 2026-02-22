@@ -53,7 +53,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 align="left"
 alt="Java"
 title="Java"
-width="30px"
+width="50px"
 style="padding-rigth:10px;"
 src="https://s3.us-west-2.amazonaws.com/content.podia.com/iiu3hb9rvquyj4iazcz8rhivdddr"
 />
