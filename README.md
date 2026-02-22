@@ -3,9 +3,9 @@
 **`Desenvolvedora FullStack`**
 
 💻 Desenvolvedora em formação | Técnica em Informática (IFAM)  <br/>
-🚀 Java • Web Development • Projetos práticos
-📚 Estudante de Análise e Desenvolvimento de Sistemas
-🎯 Em busca de oportunidades na área de tecnologia
+🚀 Java • Web Development • Projetos práticos <br/>
+📚 Estudante de Análise e Desenvolvimento de Sistemas <br/>
+🎯 Em busca de oportunidades na área de tecnologia <br/>
 ---
 
 ### 🤖 Linguagens e Tecnologias
