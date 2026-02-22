@@ -55,5 +55,5 @@ alt="Java"
 title="Java"
 width="30px"
 style="padding-rigth:10px;"
-src="https://montecarlodata.com/wp-content/uploads/2023/11/sql_azure_logo.png"
+src="https://static.wixstatic.com/media/416531_ee725724433e409f9ea94fc37ee78f5a~mv2.png/v1/fill/w_181,h_237,al_c,lg_1,q_85,enc_avif,quality_auto/416531_ee725724433e409f9ea94fc37ee78f5a~mv2.png"
 />
