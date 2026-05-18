@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Ana Laura Santos da Costa
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora`**
 
 Desenvolvedora em formação, formada como Técnica em Informática pelo Instituto Federal de Ciência e Tecnologia do Amazonas. <br/>
 Atualmente cursando Análise e Desenvolvimento de Sistemas.  <br/>
