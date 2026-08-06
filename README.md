@@ -70,7 +70,8 @@ src="https://irgkclgnpoetzevctsmb.supabase.co/storage/v1/object/public/tool-avat
 align="left"
 alt="Flutter Flow"
 title="Flutter Flow"
-width="30px"
+width="40px"
+border-radius= "50%"
 style="padding-rigth:10px;"
 src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuZ6GI_JLqX4G5iEfq6PR1wqZnFdJKW8cuEpJ6ATeagkyxpXWwzqclws&s=10"
 />
