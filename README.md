@@ -13,7 +13,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -21,7 +21,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -29,7 +29,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -37,7 +37,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="55px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -45,7 +45,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
 align="left"
 alt="Java"
 title="Java"
-width="55px"
+width="35px"
 style="padding-rigth:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -53,7 +53,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 align="left"
 alt="SQL"
 title="SQL"
-width="45px"
+width="25px"
 style="padding-rigth:10px;"
 src="https://static.wixstatic.com/media/416531_ee725724433e409f9ea94fc37ee78f5a~mv2.png/v1/fill/w_181,h_237,al_c,lg_1,q_85,enc_avif,quality_auto/416531_ee725724433e409f9ea94fc37ee78f5a~mv2.png"
 />
@@ -61,7 +61,7 @@ src="https://static.wixstatic.com/media/416531_ee725724433e409f9ea94fc37ee78f5a~
 align="left"
 alt="Flutter Flow"
 title="Flutter Flow"
-width="55px"
+width="35px"
 style="padding-rigth:10px;"
 src="https://irgkclgnpoetzevctsmb.supabase.co/storage/v1/object/public/tool-avatars/flutterflow.jpg"
 />
@@ -70,7 +70,7 @@ src="https://irgkclgnpoetzevctsmb.supabase.co/storage/v1/object/public/tool-avat
 align="left"
 alt="Flutter Flow"
 title="Flutter Flow"
-width="55px"
+width="35px"
 style="padding-rigth:10px;"
 margin-top="20px"
 src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuZ6GI_JLqX4G5iEfq6PR1wqZnFdJKW8cuEpJ6ATeagkyxpXWwzqclws&s=10"
