@@ -59,9 +59,9 @@ src="https://static.wixstatic.com/media/416531_ee725724433e409f9ea94fc37ee78f5a~
 />
 <img
 align="left"
-alt="SQL"
-title="SQL"
-width="25px"
+alt="Flutter Flow"
+title="Flutter Flow"
+width="30px"
 style="padding-rigth:10px;"
 src="https://irgkclgnpoetzevctsmb.supabase.co/storage/v1/object/public/tool-avatars/flutterflow.jpg"
 />
