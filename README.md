@@ -62,7 +62,7 @@ align="left"
 alt="Flutter Flow"
 title="Flutter Flow"
 width="55px"
-style="padding-rigth:10px;"
+style="padding-rigth:10px; margin-top -20px;"
 src="https://irgkclgnpoetzevctsmb.supabase.co/storage/v1/object/public/tool-avatars/flutterflow.jpg"
 />
 
