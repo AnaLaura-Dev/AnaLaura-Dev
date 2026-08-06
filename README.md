@@ -8,71 +8,30 @@ Foco em desenvolvimento Java e Web, criando projetos práticos e buscando evolu�
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="border-radius: 50%;"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-align="left"
-alt="Java"
-title="Java"
-width="35px"
-style="padding-rigth:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-align="left"
-alt="SQL"
-title="SQL"
-width="25px"
-style="padding-rigth:10px;"
-src="https://static.wixstatic.com/media/416531_ee725724433e409f9ea94fc37ee78f5a~mv2.png/v1/fill/w_181,h_237,al_c,lg_1,q_85,enc_avif,quality_auto/416531_ee725724433e409f9ea94fc37ee78f5a~mv2.png"
-/>
-<img
-align="left"
-alt="Flutter Flow"
-title="Flutter Flow"
-width="35px"
-style="padding-rigth:10px;"
-src="https://irgkclgnpoetzevctsmb.supabase.co/storage/v1/object/public/tool-avatars/flutterflow.jpg"
-/>
+###
 
-<img
-align="left"
-alt="Flutter Flow"
-title="Flutter Flow"
-width="35px"
-style="padding-rigth:10px;"
-margin-top="20px"
-src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuZ6GI_JLqX4G5iEfq6PR1wqZnFdJKW8cuEpJ6ATeagkyxpXWwzqclws&s=10"
-/>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
