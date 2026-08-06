@@ -72,6 +72,6 @@ alt="Flutter Flow"
 title="Flutter Flow"
 width="55px"
 style="padding-rigth:10px;"
-margin-top="-20px"
+margin-top="20px"
 src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuZ6GI_JLqX4G5iEfq6PR1wqZnFdJKW8cuEpJ6ATeagkyxpXWwzqclws&s=10"
 />
