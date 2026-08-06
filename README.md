@@ -61,7 +61,7 @@ src="https://static.wixstatic.com/media/416531_ee725724433e409f9ea94fc37ee78f5a~
 align="left"
 alt="Flutter Flow"
 title="Flutter Flow"
-width="50px"
+width="55px"
 style="padding-rigth:10px;"
 src="https://irgkclgnpoetzevctsmb.supabase.co/storage/v1/object/public/tool-avatars/flutterflow.jpg"
 />
@@ -72,5 +72,6 @@ alt="Flutter Flow"
 title="Flutter Flow"
 width="55px"
 style="padding-rigth:10px;"
+margin="-10px"
 src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuZ6GI_JLqX4G5iEfq6PR1wqZnFdJKW8cuEpJ6ATeagkyxpXWwzqclws&s=10"
 />
