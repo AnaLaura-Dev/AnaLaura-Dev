@@ -14,7 +14,7 @@ Foco em desenvolvimento Java e Web, criando projetos prÃ¡ticos e buscando evoluÃ
     alt="HTML"
     title="HTML" 
     width="50px" 
-   style= "border-radius: 50%"
+   style= "border-radius: 50%;"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
