@@ -4,7 +4,7 @@
 
 Desenvolvedora em formação, formada como Técnica em Informática pelo Instituto Federal de Ciência e Tecnologia do Amazonas. <br/>
 Atualmente cursando Análise e Desenvolvimento de Sistemas.  <br/>
-Foco em desenvolvimento Java e Web, criando projetos práticos e buscando evolução contínua na área de tecnologia.  <br/>
+Foco em desenvolvimento web e mobile, criando projetos práticos e buscando evolução contínua na área de tecnologia.  <br/>
 ---
 
 ### 🤖 Linguagens e Tecnologias
